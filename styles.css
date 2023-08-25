@@ -18,7 +18,7 @@ header {
     padding: 2rem;
 }
 
-.game-preview, .features {
+.game-preview, .features, .introduccion {
     background-color: #fff;
     padding: 1rem;
     margin-bottom: 1rem;
@@ -40,14 +40,6 @@ footer {
     background-color: #333;
     color: #fff;
     padding: 1rem;
-}
-
-.features2 {
- background-color: #fff;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 5px;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 
