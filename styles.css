@@ -18,7 +18,7 @@ header {
     padding: 2rem;
 }
 
-.game-preview, .features {
+.game-preview, .features, .features {
     background-color: #fff;
     padding: 1rem;
     margin-bottom: 1rem;
